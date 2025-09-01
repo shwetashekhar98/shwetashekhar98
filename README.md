@@ -1,7 +1,4 @@
 
-Here’s a polished **GitHub profile README** draft for you, customized from your resume and in the style you showed:
-
----
 
 # 👋 Hi, I'm Shweta Shekhar
 
@@ -36,7 +33,7 @@ A Spark-based framework analyzing 5M+ academic papers with semantic embeddings +
 📊 **[Stock Market Visualization](https://github.com/shwetashekhar98/InfoVizProject)**
 Built interactive dashboards with Streamlit, Dash, D3.js, and Matplotlib. Provided sentiment-based insights that improved decision-making by 30%.
 
-🌦 **Causal Impact of Weather on Food Delivery**
+🌦 **[Causal Impact of Weather on Food Delivery](https://github.com/shwetashekhar98/Foundation-of-Data-Science-Project.git)**
 Applied Bayesian modeling (PyMC) and DAGs to evaluate how weather and traffic affect delivery times, guiding logistics strategy.
 
 ---
